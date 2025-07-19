@@ -7,4 +7,4 @@ typedef struct s_list
 	struct s_list *next;
 }	t_list;
 
-#endif
+endif
